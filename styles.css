@@ -86,10 +86,3 @@ form button:hover {
     margin-top: 20px;
     font-weight: bold;
 }
-
-
-#mapa iframe {
-    border: none;
-    width: 100%;
-    height: 400px;
-}
