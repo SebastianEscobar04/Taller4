@@ -1,3 +1,4 @@
+// Añadir interactividad para el formulario
 document.getElementById('contactForm').addEventListener('submit', function (e) {
     e.preventDefault();
 
